@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chatapp-snappy/static/css/main.38fdc94e.css",
+    "main.js": "/chatapp-snappy/static/js/main.c21a782e.js",
+    "static/media/robot.gif": "/chatapp-snappy/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/loader.gif": "/chatapp-snappy/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/logo.svg": "/chatapp-snappy/static/media/logo.ccfbd90732828204fa6989c0f15638c0.svg",
+    "index.html": "/chatapp-snappy/index.html",
+    "main.38fdc94e.css.map": "/chatapp-snappy/static/css/main.38fdc94e.css.map",
+    "main.c21a782e.js.map": "/chatapp-snappy/static/js/main.c21a782e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fdc94e.css",
+    "static/js/main.c21a782e.js"
+  ]
+}
